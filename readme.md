@@ -8,7 +8,7 @@ Full-stack developer with a strong foundation in **Go, JavaScript (Svelte), HTML
 
 ## Highlights
 ![New Project-5](https://github.com/user-attachments/assets/d20c0bae-aeed-4899-992f-34980a1531a1)
-* **Malayalam FC**, Peringotukara www.malayalamfc.com
+* **Malayalam FC**, Peringotukara www.malayalamfc.com 
 * **National Higher Secondary School**, Irinjalakuda www.nationalhss.in
 
 ## Projects
@@ -19,6 +19,6 @@ Full-stack developer with a strong foundation in **Go, JavaScript (Svelte), HTML
 | Kapithan IDRS | https://www.github.com/hxri-nxrxyxn/kapithan-idrs-ui | https://hxri-nxrxyxn.github.io/kapithan-idrs-ui |
 | Kapithan EFAS |  https://www.github.com/hxri-nxrxyxn/kapithan-cet-ui | https://hxri-nxrxyxn.github.io/kapithan-cet-ui |
 | IoT MCS | https://www.github.com/hxri-nxrxyxn/sysmc-ui | https://hxri-nxrxyxn.github.io/sysmc-ui |
-| Malayalam FC | https://www.github.com/hxri-nxrxyxn/malayalamfc-web | https://hxri-nxrxyxn.github.io/malayalamfc-web |
+| Malayalam FC | https://www.github.com/hxri-nxrxyxn/malayalamfc-web-classic | https://hxri-nxrxyxn.github.io/malayalamfc-web-classic |
 
 
