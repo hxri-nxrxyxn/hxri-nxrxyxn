@@ -8,7 +8,7 @@ Full-stack developer with a strong foundation in **Go, JavaScript (Svelte), HTML
 
 ## Highlights
 ![New Project-5](https://github.com/user-attachments/assets/d20c0bae-aeed-4899-992f-34980a1531a1)
-* **Malayalam FC**, Peringotukara www.malayalamfc.com 
+* **Malayalam FC**, Peringotukara www.malayalamfc.com [**dev**](https://hxri-nxrxyxn.github.io/malayalamfc-web-classic)
 * **National Higher Secondary School**, Irinjalakuda www.nationalhss.in
 
 ## Projects
