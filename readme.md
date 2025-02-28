@@ -6,7 +6,14 @@ Full-stack developer with a strong foundation in **Go, JavaScript (Svelte), HTML
 
 **Skills:** Linux, Git, Node.js, Vim.
 
+
+## Notes
+
+📢 Important: This page hasn't been recently updated. To explore my current work, please check out my [repositories](https://github.com/hxri-nxrxyxn?tab=repositories). 🚀
+
+
 ## Highlights
+
 ![New Project-5](https://github.com/user-attachments/assets/d20c0bae-aeed-4899-992f-34980a1531a1)
 1. **Malayalam FC**, Peringotukara www.malayalamfc.com \
 The project's design has been tailored to the client's specific requirements, resulting in a UI that may deviate from the [original aesthetic](https://hxri-nxrxyxn.github.io/malayalamfc-web).
